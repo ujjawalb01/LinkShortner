@@ -41,3 +41,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is released under the Apache-2.0 License.
+## Path for the script.js and index.ejs
+The script.js file should in static folder and the index.ejs file should be in view folder
